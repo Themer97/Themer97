@@ -9,7 +9,7 @@ I have been learning to code for a year and a half, having switched careers from
 * 🌍  I'm based in Tunis, Tunisia
 * ✉️  You can contact me at [themersaanouni@gmail.com](mailto:themersaanouni@gmail.com)
 * 🧠  I'm learning React Native, Three.js, FramerMotion.
-* 🤝  I'm open to collaborating on I am open to participating in any project involving Front-End development, and I am particularly eager to leverage my background as a GIS Engineer to combine both sets of skills.
+* 🤝  I'm open to collaborating and I am open to participating in any project involving Front-End development, and I am particularly eager to leverage my background as a GIS Engineer to combine both sets of skills.
 * ⚡  I'm secretly Batman... but keep it between us 😁
 
 ### Skills
